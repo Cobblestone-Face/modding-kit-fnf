@@ -1,0 +1,15 @@
+Links
+
+Okay, so you've found my modding kit!
+So uh, now what?
+
+Well, now you get some download links to helpful sites!
+
+Obviously, you're going to need Psych Engine. It is the easiest tool to use for modding.
+https://gamebanana.com/mods/309789
+
+.xml and Spritesheet Generator!
+https://gamebanana.com/tools/7136
+
+A great image editor:
+https://www.pixlr.com/e
