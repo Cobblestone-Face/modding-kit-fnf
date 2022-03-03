@@ -1,3 +1,5 @@
+**#modding-kit-fnf**
+
 Credit to NyxTheShield for the Midi2FNF (Autocharter), I got it from him.
 
 Credit to the creators of Psych Engine, their Engine is used here.
